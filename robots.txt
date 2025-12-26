@@ -3,3 +3,4 @@ Disallow: /css/
 Disallow: /js/
 Disallow: /images/
 Allow: /
+Sitemap: https://x03070.github.io/lab8/sitemap.xml
